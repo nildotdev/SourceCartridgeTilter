@@ -1,0 +1,1 @@
+You can modify what files get and don't get blocked by editing the regex vector. Also, ImGui is included but not implemented since I want this to work with any source game. Feel free to implement it yourself, maybe even add customization into it, make it something bigger. Open to pull requests
