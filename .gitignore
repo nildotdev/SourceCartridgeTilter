@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # User-specific files
 *.rsuser
@@ -426,3 +427,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+=======
+>>>>>>> 83446d9c95988740ee4332ed301b8c93f739d01f
